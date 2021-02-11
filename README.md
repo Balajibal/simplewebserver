@@ -64,7 +64,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![output](./static/img/e2.png)
+![output](./static/img/e8.png)
 
 
 ## RESULT:
